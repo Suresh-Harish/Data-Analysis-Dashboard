@@ -1,4 +1,4 @@
-# Data-Analysis-Dashboard
+# Data-Analysis-Dashboard(PowerBI)
 ## Project Objective
 I created a sales dashboard in Power BI to analyze data, involving several key stages such as data processing, data cleaning, and data visualization.
 
@@ -18,3 +18,10 @@ I created a sales dashboard in Power BI to analyze data, involving several key s
 - ![Revenue Vs Profit Dashboard](https://github.com/user-attachments/assets/449bdbe2-d7fd-4427-9f81-a7c253e1cff9)
 - ![Employee Performance](https://github.com/user-attachments/assets/ca88b1b4-0e78-4a06-872b-6c337575a90d)
 
+## Project Insight
+- $5.48M profit achieved in the most recent quarter, Sales and profit peaked in 2020 Q4, indicating a strong year-end performance.
+- There is a decline in 2021 Q1, signaling a potential slowdown or seasonal trend.
+- Carla Ferreira — $426K in sales amount, $305K in profit, and ARP of 492.
+- we should focuse on the Energy Drinks, Ground Coffee, Canned Items
+- online plantform is the most profitable channel then comes retail & Distributors
+- Focused performance in the Food category and Online channel is driving profits.
