@@ -12,5 +12,6 @@ I created a sales dashboard in Power BI to analyze data, involving several key s
 - Which three products had sales over $2M?
 - What is the profit contribution of each product group?
 
--Dashboard Link <a href="https://github.com/Suresh-Harish/Data-Analysis-Dashboard/blob/main/Sales%20Dashboard.jpg"> Sales Dashboard</a>
+## Dashboard Link 
+- <a href="https://github.com/Suresh-Harish/Data-Analysis-Dashboard/blob/main/Sales%20Dashboard.jpg"> Sales Dashboard</a>
 - <a href="https://github.com/Suresh-Harish/Data-Analysis-Dashboard/blob/main/Employee%20Performance.jpg"> Profit Dashboard</a>
